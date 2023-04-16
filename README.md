@@ -30,6 +30,8 @@ Dias Salakhutdinov SE-2203
 #
 **Node class**
 
-Element - object field
-Prev - object field, reference to the previous node
-Next - object field, reference to the next node
+- Element - object field
+- Prev - object field, reference to the previous node
+- Next - object field, reference to the next node
+#
+Assignment was done on Java (OpenJDK version 19), using JetBrains IntelliJ IDEA
