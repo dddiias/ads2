@@ -3,6 +3,7 @@
 Dias Salakhutdinov SE-2203
 
 **MyArrayList class:**
+
 - Add(object item) - void, add element to list
 - Add(object item, int index) - void, add element at specific index
 - Get(int index) - object, return element at given index
@@ -15,6 +16,7 @@ Dias Salakhutdinov SE-2203
 - Sort() - void, sorts the list in alphabetical order
 #
 **MyLinkedList class:**
+
 - Add(object item) - void, add element to list
 - Add(object item, int index) - void, add element at specific index
 - Get(int index) - object, return element at given index
@@ -25,3 +27,9 @@ Dias Salakhutdinov SE-2203
 - Clear() - void, clear list
 - Contains(object item) - bool, return true if item is in list
 - Sort() - void, sorts the list in alphabetical order
+#
+**Node class**
+
+Element - object field
+Prev - object field, reference to the previous node
+Next - object field, reference to the next node
